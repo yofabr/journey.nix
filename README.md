@@ -1,0 +1,2 @@
+# journey.nix
+Nix practices
